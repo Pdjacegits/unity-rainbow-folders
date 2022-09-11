@@ -3,11 +3,11 @@ Thank you for this awesome package @PhannGor
 
 ###### Discontinued
 
-This project is discontinued and deprecated. Unfortunately, our benefit from the open source project was too low to justify the extra effort to keep it alive.
+###### This project is discontinued and deprecated. Unfortunately, our benefit from the open source project was too low to justify the extra effort to keep it alive.
 
-Meanwhile, development continues and new versions of the Rainbow Folders are now available exclusively on the [Asset Store](http://u3d.as/mor)
+###### Meanwhile, development continues and new versions of the Rainbow Folders are now available exclusively on the [Asset Store](http://u3d.as/mor)
 
-Now back to original README content…
+###### Now back to original README content…
 
 # License
 
