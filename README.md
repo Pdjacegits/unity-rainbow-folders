@@ -1,7 +1,7 @@
 # This package works on Unity 2021
 Thank you for this awesome package @PhannGor
 
-####### Discontinued
+###### Discontinued
 
 This project is discontinued and deprecated. Unfortunately, our benefit from the open source project was too low to justify the extra effort to keep it alive.
 
